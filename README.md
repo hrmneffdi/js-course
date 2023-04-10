@@ -1,3 +1,5 @@
+![ini plot](https://github.com/hrmneffdi/js-course/blob/main/foto/grafik%20plot.png)
+<br>
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
